@@ -13,11 +13,11 @@ print(driver.title)
 
 
 search = driver.find_element_by_id("i0116")
-search.send_keys("390.2020@brsburnpur.in")
+search.send_keys("teams_username")
 search.send_keys(Keys.RETURN)
 
 search_2 = driver.find_element_by_id("i0118")
-search_2.send_keys("NAWNIT25-11-2003")
+search_2.send_keys("teams_password")
 search.send_keys(Keys.RETURN)
 
 time.sleep(4)
