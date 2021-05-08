@@ -1,5 +1,5 @@
 # teams_bot
-Its is basically a microsoft teams bot developed using python and a web framework called selenium.
+It is basically a microsoft teams bot developed using python and a web framework called selenium.
 
 
 
